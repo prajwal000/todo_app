@@ -12,6 +12,9 @@ const Navbar = () => {
           <Link to="/add">
             <div>Add todo</div>
           </Link>
+          <Link to="/login">
+            <div>login</div>
+          </Link>
         </div>
       </div>
     </>
